@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.com/categories/events/</link>
+    <description>Recent content in Events on Yale Undergraduate Quantum Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speaker Series (Spring 2021)</title>
+      <link>https://yaleqc.com/p/speaker-series-spring-2021/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/speaker-series-spring-2021/</guid>
+      <description>Here is a summary and schedule of the YuQC Speaker Series.
+ Information &amp;amp; Recordings Check out this Youtube playlist of all past talk recordings!!
+Please click here (yale.edu account required) to access zoom links, meeting passwords, and, eventually, recordings for this speaker series.
+ Dr. Zlatko Minev To catch and reverse a quantum jump mid-flight April 21, 7:00PM-8:00PM ET Dr. Minev is a scientist with an applied experimental and theoretical background, focused on quantum computing and fundamental physics.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Coalition Hackathon</title>
+      <link>https://yaleqc.com/p/quantum-coalition-hackathon/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/quantum-coalition-hackathon/</guid>
+      <description>Attend Please visit quantumcoalition.io to learn more about this exciting virtual hackathon co-hosted by Yale and Stanford, open to everyone, and sponsored by Quantum Computing industry innovators.
+Registration launches on February 14, 2021!
+Join the Organizing Committee If you are a YuQC member interested in joining the QC Hack Organizing Committee, please sign up here.
+Sponsors Coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fall 2020 Interest Meeting</title>
+      <link>https://yaleqc.com/p/fall-2020-interest-meeting/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/fall-2020-interest-meeting/</guid>
+      <description>The Fall 2020 interest meeting was held on Nov 22nd, 2020 from 1:00PM to 1:30PM ET.
+Thanks so much to everyone who could make it.
+If you were unable to attend the event, absolutely no worries. Please take a moment to view (yale.edu email required) the recording and the slides from the meeting.
+Summary  Over 60+ form submissions, with 30+ interest meeting attendees! Each member is involved with at least one &amp;ldquo;project&amp;rdquo;: open-source project, tutorials, hackathon planning outreach, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
